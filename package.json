@@ -1,0 +1,13 @@
+{
+  "name": "ipssi-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "lint": "cd node_modules/eslint/bin && eslint.js --cache --fix ./app"
+  },
+  "author": "",
+  "license": "ISC"
+}
